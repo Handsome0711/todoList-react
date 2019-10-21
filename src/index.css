@@ -1,7 +1,9 @@
-body {
-  margin: 0;
-  font-family: Arial;
+body{
+  font-family: arial;
   background-color: #CCCCFF;
 }
-
+#root{
+  margin: 0 auto;
+  width: 400px;
+}
 
