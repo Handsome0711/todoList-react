@@ -1,0 +1,9 @@
+todo: [
+{id: 1, message: "my to-do", isDone: false},
+{id: 2, message: "my to-do 2", isDone: false}
+],
+{
+  "id": "1",
+  "message" : "my-to-do",
+  "isDone": "false"
+}
